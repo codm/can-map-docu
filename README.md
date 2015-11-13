@@ -28,5 +28,5 @@ If you want to have further information on how ISO-TP is working you can conside
 * [Google Books (GERMAN)](https://books.google.de/books?id=L0v7AwAAQBAJ&lpg=PA153&ots=V1lUHsefky&dq=ISO-TP&hl=de&pg=PA155#v=onepage&q=ISO-TP&f=false)
 
 ## CAN-MAP
-* codm/canmap-avr
-* codm/canmapd
+* https://github.com/codm/canmap-avr
+* https://github.com/codm/canmapd
